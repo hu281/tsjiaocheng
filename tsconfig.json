@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target": "ES2019",
+    "module": "commonjs",
+    "allowJs": false,
+    "skipLibCheck": true
+  },
+  "include": ["*.ts"],
+  "exclude": ["*.js", "node_modules", ".npm-cache", "dist"]
+}
